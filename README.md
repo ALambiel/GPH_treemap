@@ -4,7 +4,9 @@ This repository contains R scripts used for high resolution tree species classif
 ![Graphical abstract](https://github.com/ALambiel/GPH_treemap/blob/main/images/graphical_abstract.jpg)
 
 ## 📖 Methodology and references 
- 
+
+The methodology is described in the related paper Large-scale individual tree species mapping using AVIRIS-NG and LiDAR data fusion (Lambiel et al., in prep). 
+
 Output maps are available in the [Zenodo repository ](https://zenodo.org/xxx)
 
 ## 📂 Folder structure
