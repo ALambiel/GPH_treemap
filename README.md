@@ -4,10 +4,6 @@ This repository contains R scripts used for high resolution tree species classif
 ![Graphical abstract](https://github.com/ALambiel/GPH_treemap/blob/main/images/graphical_abstract.jpg)
 
 ## 📖 Methodology and references 
-
-The general workflow is presented here after. 
-
-![General workflow](https://github.com/ALambiel/GPH_treemap/blob/main/images/workflow.png)
  
 Output maps are available in the [Zenodo repository ](https://zenodo.org/xxx)
 
