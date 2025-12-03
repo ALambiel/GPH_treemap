@@ -7,7 +7,7 @@ This repository contains R scripts used for high resolution tree species classif
 
 The methodology is described in the related paper Large-scale individual tree species mapping using AVIRIS-NG and LiDAR data fusion (Lambiel et al., in prep). 
 
-Output maps are available in the [Zenodo repository ](https://zenodo.org/xxx)
+Output maps are available in the [Zenodo repository ](https://doi.org/10.5281/zenodo.17805682)
 
 ## 📂 Folder structure
 
