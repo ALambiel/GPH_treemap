@@ -1,4 +1,4 @@
-# GPH_treemap
+# Large-scale individual tree species mapping using AVIRIS-NG and LiDAR data fusion
 
 ## 📄 Description
 This repository contains scripts associated with the study "Large-scale individual tree species mapping using AVIRIS-NG and LiDAR data fusion", which investigates the use of hyperspectral imaging and LiDAR data for individual tree crown level species classification in the Swiss Pre-Alps.
