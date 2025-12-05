@@ -1,10 +1,3 @@
-## 🛠️ Workflow
-
-The general workflow is presented here after. 
-
-![General workflow](https://github.com/ALambiel/GPH_treemap/blob/main/images/workflow.png)
-
-The available scripts allow you to prepare LiDAR data, extract spectral information and build a Random Forest model. They also enable you to make predictions and post-process the obtained maps. 
 
 ## 📂 Folder structure
 

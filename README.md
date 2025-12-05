@@ -12,6 +12,8 @@ Output maps are available in the [Zenodo repository ](https://doi.org/10.5281/ze
 
 ![Workflow](https://github.com/ALambiel/GPH_treemap/blob/main/images/workflow.png)
 
+The scripts available in this repository allow you to prepare LiDAR data, extract spectral information and build a Random Forest model. They also enable you to make predictions and post-process the obtained maps. 
+
 ## 📈 Key results
 
 - Overall accuracy: 74% (hyperspectral only), 76% (hyperspectral + LiDAR).
