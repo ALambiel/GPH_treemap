@@ -6,7 +6,7 @@ This repository contains scripts associated with the study "Large-scale individu
 The main goal is to demonstrate the potential of hyperspectral (AVIRIS-NG) and LiDAR data to procude continuous, high resolution tree species maps using machine learning techniques.
 Output maps are available in the [Zenodo repository ](https://doi.org/10.5281/zenodo.17805682). These maps are outcomes from the ValPar.CH project. 
 
-![Graphical abstract](https://github.com/ALambiel/GPH_treemap/blob/main/images/graphical_abstract.jpg)
+![Graphical abstract](https://github.com/ALambiel/GPH_treemap/blob/main/images/graphical_abstract.png)
 
 ## 🛠️ Workflow
 
